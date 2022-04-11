@@ -1,0 +1,422 @@
+
+Begin training: mlp
+trigger times: 0
+Epoch 001: | Train Loss: 1.64993 | Val Loss: 1.37962 | Train Acc: 0.41919| Val Acc: 0.43243
+Trigger Times:, 1
+Epoch 002: | Train Loss: 1.79341 | Val Loss: 1.49354 | Train Acc: 0.60909| Val Acc: 0.47748
+Trigger Times:, 2
+Epoch 003: | Train Loss: 1.13866 | Val Loss: 1.92523 | Train Acc: 0.72626| Val Acc: 0.39640
+Trigger Times:, 3
+Epoch 004: | Train Loss: 0.89027 | Val Loss: 2.42777 | Train Acc: 0.81111| Val Acc: 0.52252
+Trigger Times:, 4
+Epoch 005: | Train Loss: 0.93612 | Val Loss: 3.13631 | Train Acc: 0.86465| Val Acc: 0.47748
+Trigger Times:, 5
+Epoch 006: | Train Loss: 0.68677 | Val Loss: 4.16365 | Train Acc: 0.89899| Val Acc: 0.47748
+Trigger Times:, 6
+Epoch 007: | Train Loss: 0.67693 | Val Loss: 4.76532 | Train Acc: 0.90909| Val Acc: 0.49550
+trigger times: 0
+Epoch 008: | Train Loss: 0.71898 | Val Loss: 4.65878 | Train Acc: 0.92121| Val Acc: 0.45946
+Trigger Times:, 1
+Epoch 009: | Train Loss: 0.52295 | Val Loss: 5.99955 | Train Acc: 0.93535| Val Acc: 0.45045
+trigger times: 0
+Epoch 010: | Train Loss: 0.39234 | Val Loss: 5.33395 | Train Acc: 0.94949| Val Acc: 0.40541
+trigger times: 0
+Epoch 011: | Train Loss: 0.76374 | Val Loss: 4.70706 | Train Acc: 0.94444| Val Acc: 0.45045
+Trigger Times:, 1
+Epoch 012: | Train Loss: 0.61289 | Val Loss: 5.27808 | Train Acc: 0.95152| Val Acc: 0.44144
+Trigger Times:, 2
+Epoch 013: | Train Loss: 0.45830 | Val Loss: 5.51551 | Train Acc: 0.94848| Val Acc: 0.45946
+Trigger Times:, 3
+Epoch 014: | Train Loss: 0.45622 | Val Loss: 7.73418 | Train Acc: 0.96869| Val Acc: 0.40541
+trigger times: 0
+Epoch 015: | Train Loss: 0.62215 | Val Loss: 6.15651 | Train Acc: 0.96667| Val Acc: 0.53153
+Trigger Times:, 1
+Epoch 016: | Train Loss: 0.63321 | Val Loss: 7.14644 | Train Acc: 0.95657| Val Acc: 0.47748
+Trigger Times:, 2
+Epoch 017: | Train Loss: 0.21767 | Val Loss: 7.32516 | Train Acc: 0.97172| Val Acc: 0.48649
+Trigger Times:, 3
+Epoch 018: | Train Loss: 0.50603 | Val Loss: 8.90833 | Train Acc: 0.96869| Val Acc: 0.51351
+trigger times: 0
+Epoch 019: | Train Loss: 0.31109 | Val Loss: 8.74118 | Train Acc: 0.97374| Val Acc: 0.49550
+trigger times: 0
+Epoch 020: | Train Loss: 0.43474 | Val Loss: 8.18093 | Train Acc: 0.96465| Val Acc: 0.49550
+Trigger Times:, 1
+Epoch 021: | Train Loss: 0.32602 | Val Loss: 9.04566 | Train Acc: 0.97778| Val Acc: 0.45045
+trigger times: 0
+Epoch 022: | Train Loss: 0.37656 | Val Loss: 8.89926 | Train Acc: 0.97475| Val Acc: 0.49550
+trigger times: 0
+Epoch 023: | Train Loss: 0.42694 | Val Loss: 8.76384 | Train Acc: 0.97273| Val Acc: 0.45946
+Trigger Times:, 1
+Epoch 024: | Train Loss: 0.30738 | Val Loss: 9.69745 | Train Acc: 0.97576| Val Acc: 0.38739
+trigger times: 0
+Epoch 025: | Train Loss: 0.44826 | Val Loss: 7.82470 | Train Acc: 0.96869| Val Acc: 0.45946
+Trigger Times:, 1
+Epoch 026: | Train Loss: 0.37950 | Val Loss: 8.30161 | Train Acc: 0.98485| Val Acc: 0.47748
+trigger times: 0
+Epoch 027: | Train Loss: 0.21370 | Val Loss: 7.52505 | Train Acc: 0.97879| Val Acc: 0.46847
+Trigger Times:, 1
+Epoch 028: | Train Loss: 0.14299 | Val Loss: 10.11295 | Train Acc: 0.98687| Val Acc: 0.54054
+trigger times: 0
+Epoch 029: | Train Loss: 0.25572 | Val Loss: 7.34517 | Train Acc: 0.97778| Val Acc: 0.49550
+Trigger Times:, 1
+Epoch 030: | Train Loss: 0.31369 | Val Loss: 8.84214 | Train Acc: 0.98081| Val Acc: 0.46847
+Trigger Times:, 2
+Epoch 031: | Train Loss: 0.16359 | Val Loss: 9.07206 | Train Acc: 0.97879| Val Acc: 0.51351
+trigger times: 0
+Epoch 032: | Train Loss: 0.28269 | Val Loss: 6.22164 | Train Acc: 0.97879| Val Acc: 0.43243
+Trigger Times:, 1
+Epoch 033: | Train Loss: 0.21375 | Val Loss: 9.56258 | Train Acc: 0.98283| Val Acc: 0.46847
+Trigger Times:, 2
+Epoch 034: | Train Loss: 0.06926 | Val Loss: 12.53882 | Train Acc: 0.99293| Val Acc: 0.46847
+trigger times: 0
+Epoch 035: | Train Loss: 0.25253 | Val Loss: 9.39078 | Train Acc: 0.98384| Val Acc: 0.45946
+Trigger Times:, 1
+Epoch 036: | Train Loss: 0.29965 | Val Loss: 11.09164 | Train Acc: 0.98182| Val Acc: 0.51351
+trigger times: 0
+Epoch 037: | Train Loss: 0.42524 | Val Loss: 8.24728 | Train Acc: 0.97374| Val Acc: 0.48649
+Trigger Times:, 1
+Epoch 038: | Train Loss: 0.23064 | Val Loss: 8.76224 | Train Acc: 0.98182| Val Acc: 0.51351
+Trigger Times:, 2
+Epoch 039: | Train Loss: 0.30486 | Val Loss: 10.95838 | Train Acc: 0.98384| Val Acc: 0.49550
+trigger times: 0
+Epoch 040: | Train Loss: 0.29641 | Val Loss: 9.44993 | Train Acc: 0.98283| Val Acc: 0.41441
+Trigger Times:, 1
+Epoch 041: | Train Loss: 0.25991 | Val Loss: 14.88805 | Train Acc: 0.98182| Val Acc: 0.45045
+trigger times: 0
+Epoch 042: | Train Loss: 0.40366 | Val Loss: 9.40229 | Train Acc: 0.97071| Val Acc: 0.44144
+Trigger Times:, 1
+Epoch 043: | Train Loss: 0.12936 | Val Loss: 10.05518 | Train Acc: 0.98283| Val Acc: 0.49550
+Trigger Times:, 2
+Epoch 044: | Train Loss: 0.21944 | Val Loss: 10.86305 | Train Acc: 0.98283| Val Acc: 0.56757
+Trigger Times:, 3
+Epoch 045: | Train Loss: 0.33630 | Val Loss: 11.40856 | Train Acc: 0.98081| Val Acc: 0.48649
+trigger times: 0
+Epoch 046: | Train Loss: 0.38860 | Val Loss: 7.49598 | Train Acc: 0.98182| Val Acc: 0.46847
+Trigger Times:, 1
+Epoch 047: | Train Loss: 0.07296 | Val Loss: 10.11777 | Train Acc: 0.99394| Val Acc: 0.49550
+Trigger Times:, 2
+Epoch 048: | Train Loss: 0.22163 | Val Loss: 11.13231 | Train Acc: 0.99091| Val Acc: 0.46847
+trigger times: 0
+Epoch 049: | Train Loss: 0.42332 | Val Loss: 10.01247 | Train Acc: 0.97879| Val Acc: 0.45045
+Trigger Times:, 1
+Epoch 050: | Train Loss: 0.34552 | Val Loss: 14.32547 | Train Acc: 0.98283| Val Acc: 0.43243
+trigger times: 0
+Epoch 051: | Train Loss: 0.22982 | Val Loss: 11.90301 | Train Acc: 0.98889| Val Acc: 0.46847
+Trigger Times:, 1
+Epoch 052: | Train Loss: 0.17975 | Val Loss: 13.65176 | Train Acc: 0.98990| Val Acc: 0.44144
+trigger times: 0
+Epoch 053: | Train Loss: 0.25878 | Val Loss: 7.68649 | Train Acc: 0.98081| Val Acc: 0.45946
+Trigger Times:, 1
+Epoch 054: | Train Loss: 0.39267 | Val Loss: 10.62248 | Train Acc: 0.97980| Val Acc: 0.49550
+Trigger Times:, 2
+Epoch 055: | Train Loss: 0.35275 | Val Loss: 11.64263 | Train Acc: 0.98586| Val Acc: 0.45946
+trigger times: 0
+Epoch 056: | Train Loss: 0.41063 | Val Loss: 8.77117 | Train Acc: 0.98485| Val Acc: 0.48649
+Trigger Times:, 1
+Epoch 057: | Train Loss: 0.30569 | Val Loss: 12.33436 | Train Acc: 0.98586| Val Acc: 0.49550
+trigger times: 0
+Epoch 058: | Train Loss: 0.17314 | Val Loss: 9.38918 | Train Acc: 0.98384| Val Acc: 0.49550
+Trigger Times:, 1
+Epoch 059: | Train Loss: 0.28745 | Val Loss: 10.68948 | Train Acc: 0.97980| Val Acc: 0.49550
+Trigger Times:, 2
+Epoch 060: | Train Loss: 0.18012 | Val Loss: 14.16408 | Train Acc: 0.99293| Val Acc: 0.48649
+trigger times: 0
+Epoch 061: | Train Loss: 0.20105 | Val Loss: 12.82968 | Train Acc: 0.98788| Val Acc: 0.51351
+Trigger Times:, 1
+Epoch 062: | Train Loss: 0.27049 | Val Loss: 13.07077 | Train Acc: 0.98788| Val Acc: 0.49550
+trigger times: 0
+Epoch 063: | Train Loss: 0.17605 | Val Loss: 9.46100 | Train Acc: 0.98889| Val Acc: 0.51351
+Trigger Times:, 1
+Epoch 064: | Train Loss: 0.28154 | Val Loss: 9.70762 | Train Acc: 0.99091| Val Acc: 0.54955
+Trigger Times:, 2
+Epoch 065: | Train Loss: 0.26124 | Val Loss: 12.09724 | Train Acc: 0.98485| Val Acc: 0.50450
+Trigger Times:, 3
+Epoch 066: | Train Loss: 0.29824 | Val Loss: 13.67116 | Train Acc: 0.98384| Val Acc: 0.51351
+Trigger Times:, 4
+Epoch 067: | Train Loss: 0.16492 | Val Loss: 15.38495 | Train Acc: 0.99091| Val Acc: 0.55856
+trigger times: 0
+Epoch 068: | Train Loss: 0.23110 | Val Loss: 11.12794 | Train Acc: 0.98687| Val Acc: 0.52252
+Trigger Times:, 1
+Epoch 069: | Train Loss: 0.19797 | Val Loss: 11.63229 | Train Acc: 0.98283| Val Acc: 0.54054
+Trigger Times:, 2
+Epoch 070: | Train Loss: 0.09399 | Val Loss: 12.85091 | Train Acc: 0.99394| Val Acc: 0.52252
+Trigger Times:, 3
+Epoch 071: | Train Loss: 0.16160 | Val Loss: 16.77418 | Train Acc: 0.98990| Val Acc: 0.47748
+trigger times: 0
+Epoch 072: | Train Loss: 0.24991 | Val Loss: 13.18556 | Train Acc: 0.98485| Val Acc: 0.51351
+trigger times: 0
+Epoch 073: | Train Loss: 0.36279 | Val Loss: 11.36293 | Train Acc: 0.98081| Val Acc: 0.44144
+Trigger Times:, 1
+Epoch 074: | Train Loss: 0.27257 | Val Loss: 11.84174 | Train Acc: 0.98788| Val Acc: 0.49550
+Trigger Times:, 2
+Epoch 075: | Train Loss: 0.13292 | Val Loss: 14.04747 | Train Acc: 0.99394| Val Acc: 0.50450
+Trigger Times:, 3
+Epoch 076: | Train Loss: 0.06793 | Val Loss: 14.70628 | Train Acc: 0.99091| Val Acc: 0.53153
+trigger times: 0
+Epoch 077: | Train Loss: 0.26878 | Val Loss: 11.35432 | Train Acc: 0.98586| Val Acc: 0.53153
+Trigger Times:, 1
+Epoch 078: | Train Loss: 0.11961 | Val Loss: 15.62019 | Train Acc: 0.99596| Val Acc: 0.50450
+trigger times: 0
+Epoch 079: | Train Loss: 0.11053 | Val Loss: 13.76079 | Train Acc: 0.98687| Val Acc: 0.50450
+Trigger Times:, 1
+Epoch 080: | Train Loss: 0.36040 | Val Loss: 14.78568 | Train Acc: 0.98687| Val Acc: 0.49550
+trigger times: 0
+Epoch 081: | Train Loss: 0.19196 | Val Loss: 11.91201 | Train Acc: 0.99091| Val Acc: 0.51351
+Trigger Times:, 1
+Epoch 082: | Train Loss: 0.12534 | Val Loss: 12.65296 | Train Acc: 0.98889| Val Acc: 0.46847
+trigger times: 0
+Epoch 083: | Train Loss: 0.20386 | Val Loss: 12.64708 | Train Acc: 0.98889| Val Acc: 0.51351
+trigger times: 0
+Epoch 084: | Train Loss: 0.18505 | Val Loss: 9.48807 | Train Acc: 0.99293| Val Acc: 0.50450
+Trigger Times:, 1
+Epoch 085: | Train Loss: 0.10595 | Val Loss: 16.70770 | Train Acc: 0.99394| Val Acc: 0.52252
+trigger times: 0
+Epoch 086: | Train Loss: 0.23542 | Val Loss: 13.55215 | Train Acc: 0.98889| Val Acc: 0.53153
+Trigger Times:, 1
+Epoch 087: | Train Loss: 0.07081 | Val Loss: 17.66464 | Train Acc: 0.99293| Val Acc: 0.53153
+Trigger Times:, 2
+Epoch 088: | Train Loss: 0.56118 | Val Loss: 18.00895 | Train Acc: 0.98889| Val Acc: 0.48649
+trigger times: 0
+Epoch 089: | Train Loss: 0.33484 | Val Loss: 15.64574 | Train Acc: 0.98889| Val Acc: 0.48649
+trigger times: 0
+Epoch 090: | Train Loss: 0.16656 | Val Loss: 11.20375 | Train Acc: 0.98889| Val Acc: 0.49550
+Trigger Times:, 1
+Epoch 091: | Train Loss: 0.17453 | Val Loss: 17.79939 | Train Acc: 0.99495| Val Acc: 0.51351
+trigger times: 0
+Epoch 092: | Train Loss: 0.34346 | Val Loss: 15.51358 | Train Acc: 0.98990| Val Acc: 0.51351
+trigger times: 0
+Epoch 093: | Train Loss: 0.17718 | Val Loss: 15.13442 | Train Acc: 0.98990| Val Acc: 0.47748
+Trigger Times:, 1
+Epoch 094: | Train Loss: 0.26091 | Val Loss: 18.77643 | Train Acc: 0.98889| Val Acc: 0.52252
+trigger times: 0
+Epoch 095: | Train Loss: 0.28382 | Val Loss: 16.00678 | Train Acc: 0.99091| Val Acc: 0.53153
+Trigger Times:, 1
+Epoch 096: | Train Loss: 0.25830 | Val Loss: 17.92247 | Train Acc: 0.99091| Val Acc: 0.51351
+trigger times: 0
+Epoch 097: | Train Loss: 0.23333 | Val Loss: 15.44422 | Train Acc: 0.98990| Val Acc: 0.48649
+Trigger Times:, 1
+Epoch 098: | Train Loss: 0.10603 | Val Loss: 18.50507 | Train Acc: 0.99091| Val Acc: 0.47748
+trigger times: 0
+Epoch 099: | Train Loss: 0.43613 | Val Loss: 15.80377 | Train Acc: 0.98586| Val Acc: 0.45946
+trigger times: 0
+Epoch 100: | Train Loss: 0.22151 | Val Loss: 11.53965 | Train Acc: 0.99394| Val Acc: 0.45946
+              precision    recall  f1-score   support
+
+          AU       0.56      0.45      0.50       332
+          UK       0.18      0.40      0.25        89
+          US       0.46      0.38      0.41       240
+
+    accuracy                           0.42       661
+   macro avg       0.40      0.41      0.39       661
+weighted avg       0.47      0.42      0.43       661
+
+Begin training: transformer
+trigger times: 0
+Epoch 001: | Train Loss: 1.12507 | Val Loss: 1.30980 | Train Acc: 0.45556| Val Acc: 0.52252
+Trigger Times:, 1
+Epoch 002: | Train Loss: 1.25055 | Val Loss: 2.19870 | Train Acc: 0.60606| Val Acc: 0.53153
+trigger times: 0
+Epoch 003: | Train Loss: 1.27750 | Val Loss: 2.10938 | Train Acc: 0.64343| Val Acc: 0.56757
+Trigger Times:, 1
+Epoch 004: | Train Loss: 1.18996 | Val Loss: 2.63135 | Train Acc: 0.65960| Val Acc: 0.52252
+trigger times: 0
+Epoch 005: | Train Loss: 1.20272 | Val Loss: 1.88677 | Train Acc: 0.66566| Val Acc: 0.58559
+Trigger Times:, 1
+Epoch 006: | Train Loss: 1.21928 | Val Loss: 2.22987 | Train Acc: 0.66667| Val Acc: 0.53153
+Trigger Times:, 2
+Epoch 007: | Train Loss: 1.13215 | Val Loss: 2.27979 | Train Acc: 0.68687| Val Acc: 0.60360
+trigger times: 0
+Epoch 008: | Train Loss: 1.09453 | Val Loss: 1.86196 | Train Acc: 0.69293| Val Acc: 0.60360
+Trigger Times:, 1
+Epoch 009: | Train Loss: 1.03672 | Val Loss: 2.55851 | Train Acc: 0.71111| Val Acc: 0.57658
+trigger times: 0
+Epoch 010: | Train Loss: 1.00575 | Val Loss: 2.07163 | Train Acc: 0.71818| Val Acc: 0.61261
+trigger times: 0
+Epoch 011: | Train Loss: 1.01625 | Val Loss: 1.48966 | Train Acc: 0.73030| Val Acc: 0.64865
+Trigger Times:, 1
+Epoch 012: | Train Loss: 1.00061 | Val Loss: 2.30880 | Train Acc: 0.73434| Val Acc: 0.63063
+trigger times: 0
+Epoch 013: | Train Loss: 0.97840 | Val Loss: 1.55136 | Train Acc: 0.75253| Val Acc: 0.61261
+Trigger Times:, 1
+Epoch 014: | Train Loss: 0.90333 | Val Loss: 2.18373 | Train Acc: 0.74444| Val Acc: 0.63063
+trigger times: 0
+Epoch 015: | Train Loss: 0.99390 | Val Loss: 1.76004 | Train Acc: 0.76061| Val Acc: 0.64865
+Trigger Times:, 1
+Epoch 016: | Train Loss: 0.88397 | Val Loss: 1.86459 | Train Acc: 0.77879| Val Acc: 0.68468
+Trigger Times:, 2
+Epoch 017: | Train Loss: 0.90429 | Val Loss: 2.48948 | Train Acc: 0.78687| Val Acc: 0.67568
+trigger times: 0
+Epoch 018: | Train Loss: 0.86670 | Val Loss: 2.09899 | Train Acc: 0.78990| Val Acc: 0.70270
+Trigger Times:, 1
+Epoch 019: | Train Loss: 0.88260 | Val Loss: 2.20558 | Train Acc: 0.80606| Val Acc: 0.66667
+Trigger Times:, 2
+Epoch 020: | Train Loss: 0.85306 | Val Loss: 2.82869 | Train Acc: 0.80606| Val Acc: 0.59459
+trigger times: 0
+Epoch 021: | Train Loss: 0.91948 | Val Loss: 2.71222 | Train Acc: 0.81313| Val Acc: 0.70270
+trigger times: 0
+Epoch 022: | Train Loss: 0.86113 | Val Loss: 2.41425 | Train Acc: 0.81818| Val Acc: 0.69369
+trigger times: 0
+Epoch 023: | Train Loss: 0.78799 | Val Loss: 2.40373 | Train Acc: 0.81616| Val Acc: 0.69369
+Trigger Times:, 1
+Epoch 024: | Train Loss: 0.76853 | Val Loss: 2.45045 | Train Acc: 0.82121| Val Acc: 0.67568
+Trigger Times:, 2
+Epoch 025: | Train Loss: 0.68793 | Val Loss: 3.51011 | Train Acc: 0.83737| Val Acc: 0.62162
+trigger times: 0
+Epoch 026: | Train Loss: 0.76958 | Val Loss: 2.35809 | Train Acc: 0.83535| Val Acc: 0.71171
+Trigger Times:, 1
+Epoch 027: | Train Loss: 0.83896 | Val Loss: 2.38338 | Train Acc: 0.83333| Val Acc: 0.71171
+trigger times: 0
+Epoch 028: | Train Loss: 0.79807 | Val Loss: 2.36874 | Train Acc: 0.82828| Val Acc: 0.68468
+Trigger Times:, 1
+Epoch 029: | Train Loss: 0.73472 | Val Loss: 2.72747 | Train Acc: 0.84141| Val Acc: 0.71171
+Trigger Times:, 2
+Epoch 030: | Train Loss: 0.71797 | Val Loss: 2.74698 | Train Acc: 0.85152| Val Acc: 0.72072
+Trigger Times:, 3
+Epoch 031: | Train Loss: 0.65281 | Val Loss: 3.69250 | Train Acc: 0.85455| Val Acc: 0.66667
+Trigger Times:, 4
+Epoch 032: | Train Loss: 0.69464 | Val Loss: 4.59562 | Train Acc: 0.85051| Val Acc: 0.60360
+trigger times: 0
+Epoch 033: | Train Loss: 0.66753 | Val Loss: 2.81890 | Train Acc: 0.86667| Val Acc: 0.69369
+trigger times: 0
+Epoch 034: | Train Loss: 0.66459 | Val Loss: 2.70626 | Train Acc: 0.86869| Val Acc: 0.72973
+trigger times: 0
+Epoch 035: | Train Loss: 0.75333 | Val Loss: 2.31374 | Train Acc: 0.85253| Val Acc: 0.75676
+Trigger Times:, 1
+Epoch 036: | Train Loss: 0.61334 | Val Loss: 2.90116 | Train Acc: 0.86263| Val Acc: 0.72072
+Trigger Times:, 2
+Epoch 037: | Train Loss: 0.56772 | Val Loss: 3.01955 | Train Acc: 0.88788| Val Acc: 0.72072
+Trigger Times:, 3
+Epoch 038: | Train Loss: 0.59529 | Val Loss: 4.42171 | Train Acc: 0.87273| Val Acc: 0.62162
+trigger times: 0
+Epoch 039: | Train Loss: 0.52434 | Val Loss: 4.11549 | Train Acc: 0.89394| Val Acc: 0.63964
+trigger times: 0
+Epoch 040: | Train Loss: 0.68763 | Val Loss: 3.71612 | Train Acc: 0.87677| Val Acc: 0.69369
+trigger times: 0
+Epoch 041: | Train Loss: 0.69382 | Val Loss: 2.93148 | Train Acc: 0.85859| Val Acc: 0.71171
+Trigger Times:, 1
+Epoch 042: | Train Loss: 0.52286 | Val Loss: 3.04348 | Train Acc: 0.88687| Val Acc: 0.71171
+Trigger Times:, 2
+Epoch 043: | Train Loss: 0.53427 | Val Loss: 3.13040 | Train Acc: 0.89798| Val Acc: 0.68468
+Trigger Times:, 3
+Epoch 044: | Train Loss: 0.63864 | Val Loss: 3.95363 | Train Acc: 0.87677| Val Acc: 0.65766
+Trigger Times:, 4
+Epoch 045: | Train Loss: 0.65733 | Val Loss: 4.04071 | Train Acc: 0.88485| Val Acc: 0.69369
+trigger times: 0
+Epoch 046: | Train Loss: 0.56481 | Val Loss: 2.85151 | Train Acc: 0.88687| Val Acc: 0.75676
+Trigger Times:, 1
+Epoch 047: | Train Loss: 0.54920 | Val Loss: 4.40649 | Train Acc: 0.88990| Val Acc: 0.71171
+trigger times: 0
+Epoch 048: | Train Loss: 0.62795 | Val Loss: 3.54584 | Train Acc: 0.87475| Val Acc: 0.69369
+trigger times: 0
+Epoch 049: | Train Loss: 0.57070 | Val Loss: 2.63473 | Train Acc: 0.89192| Val Acc: 0.76577
+Trigger Times:, 1
+Epoch 050: | Train Loss: 0.56776 | Val Loss: 3.24844 | Train Acc: 0.90303| Val Acc: 0.73874
+trigger times: 0
+Epoch 051: | Train Loss: 0.53518 | Val Loss: 2.75200 | Train Acc: 0.90202| Val Acc: 0.71171
+Trigger Times:, 1
+Epoch 052: | Train Loss: 0.56929 | Val Loss: 2.99824 | Train Acc: 0.88990| Val Acc: 0.74775
+Trigger Times:, 2
+Epoch 053: | Train Loss: 0.54003 | Val Loss: 5.14413 | Train Acc: 0.90606| Val Acc: 0.66667
+trigger times: 0
+Epoch 054: | Train Loss: 0.52799 | Val Loss: 3.54840 | Train Acc: 0.90000| Val Acc: 0.70270
+trigger times: 0
+Epoch 055: | Train Loss: 0.52134 | Val Loss: 3.01326 | Train Acc: 0.90606| Val Acc: 0.76577
+Trigger Times:, 1
+Epoch 056: | Train Loss: 0.45279 | Val Loss: 3.25893 | Train Acc: 0.90303| Val Acc: 0.70270
+trigger times: 0
+Epoch 057: | Train Loss: 0.51396 | Val Loss: 2.84556 | Train Acc: 0.89899| Val Acc: 0.80180
+Trigger Times:, 1
+Epoch 058: | Train Loss: 0.42712 | Val Loss: 3.42778 | Train Acc: 0.91313| Val Acc: 0.72072
+trigger times: 0
+Epoch 059: | Train Loss: 0.52603 | Val Loss: 2.94484 | Train Acc: 0.90909| Val Acc: 0.72072
+Trigger Times:, 1
+Epoch 060: | Train Loss: 0.53838 | Val Loss: 3.85242 | Train Acc: 0.89596| Val Acc: 0.70270
+trigger times: 0
+Epoch 061: | Train Loss: 0.47249 | Val Loss: 3.02482 | Train Acc: 0.90606| Val Acc: 0.76577
+Trigger Times:, 1
+Epoch 062: | Train Loss: 0.47416 | Val Loss: 3.65305 | Train Acc: 0.91414| Val Acc: 0.77477
+trigger times: 0
+Epoch 063: | Train Loss: 0.52539 | Val Loss: 3.12661 | Train Acc: 0.91212| Val Acc: 0.73874
+Trigger Times:, 1
+Epoch 064: | Train Loss: 0.44876 | Val Loss: 4.34860 | Train Acc: 0.91717| Val Acc: 0.68468
+Trigger Times:, 2
+Epoch 065: | Train Loss: 0.43071 | Val Loss: 5.94844 | Train Acc: 0.92424| Val Acc: 0.65766
+trigger times: 0
+Epoch 066: | Train Loss: 0.49327 | Val Loss: 5.19409 | Train Acc: 0.91111| Val Acc: 0.72072
+trigger times: 0
+Epoch 067: | Train Loss: 0.48267 | Val Loss: 3.26294 | Train Acc: 0.91313| Val Acc: 0.71171
+trigger times: 0
+Epoch 068: | Train Loss: 0.40871 | Val Loss: 3.10991 | Train Acc: 0.93131| Val Acc: 0.72973
+Trigger Times:, 1
+Epoch 069: | Train Loss: 0.33743 | Val Loss: 3.63412 | Train Acc: 0.94040| Val Acc: 0.71171
+Trigger Times:, 2
+Epoch 070: | Train Loss: 0.41807 | Val Loss: 3.71486 | Train Acc: 0.92626| Val Acc: 0.68468
+Trigger Times:, 3
+Epoch 071: | Train Loss: 0.44851 | Val Loss: 5.41188 | Train Acc: 0.91919| Val Acc: 0.72072
+trigger times: 0
+Epoch 072: | Train Loss: 0.36462 | Val Loss: 3.85307 | Train Acc: 0.92727| Val Acc: 0.73874
+trigger times: 0
+Epoch 073: | Train Loss: 0.38201 | Val Loss: 3.27711 | Train Acc: 0.92727| Val Acc: 0.72973
+Trigger Times:, 1
+Epoch 074: | Train Loss: 0.44508 | Val Loss: 6.04228 | Train Acc: 0.91616| Val Acc: 0.63964
+trigger times: 0
+Epoch 075: | Train Loss: 0.56733 | Val Loss: 3.30374 | Train Acc: 0.92525| Val Acc: 0.73874
+trigger times: 0
+Epoch 076: | Train Loss: 0.48676 | Val Loss: 3.13587 | Train Acc: 0.90707| Val Acc: 0.79279
+Trigger Times:, 1
+Epoch 077: | Train Loss: 0.33195 | Val Loss: 4.55229 | Train Acc: 0.93333| Val Acc: 0.73874
+trigger times: 0
+Epoch 078: | Train Loss: 0.47641 | Val Loss: 4.38618 | Train Acc: 0.90707| Val Acc: 0.72072
+Trigger Times:, 1
+Epoch 079: | Train Loss: 0.50366 | Val Loss: 4.85056 | Train Acc: 0.91616| Val Acc: 0.66667
+Trigger Times:, 2
+Epoch 080: | Train Loss: 0.30649 | Val Loss: 5.77001 | Train Acc: 0.93333| Val Acc: 0.65766
+trigger times: 0
+Epoch 081: | Train Loss: 0.36222 | Val Loss: 3.64540 | Train Acc: 0.92828| Val Acc: 0.75676
+Trigger Times:, 1
+Epoch 082: | Train Loss: 0.35326 | Val Loss: 4.07219 | Train Acc: 0.93333| Val Acc: 0.72072
+trigger times: 0
+Epoch 083: | Train Loss: 0.36200 | Val Loss: 3.80296 | Train Acc: 0.93434| Val Acc: 0.72072
+Trigger Times:, 1
+Epoch 084: | Train Loss: 0.37569 | Val Loss: 4.63591 | Train Acc: 0.93939| Val Acc: 0.72072
+Trigger Times:, 2
+Epoch 085: | Train Loss: 0.47558 | Val Loss: 6.61271 | Train Acc: 0.92727| Val Acc: 0.68468
+trigger times: 0
+Epoch 086: | Train Loss: 0.39740 | Val Loss: 4.44755 | Train Acc: 0.93030| Val Acc: 0.72973
+trigger times: 0
+Epoch 087: | Train Loss: 0.36552 | Val Loss: 4.19719 | Train Acc: 0.92323| Val Acc: 0.74775
+Trigger Times:, 1
+Epoch 088: | Train Loss: 0.39339 | Val Loss: 5.45559 | Train Acc: 0.93232| Val Acc: 0.68468
+trigger times: 0
+Epoch 089: | Train Loss: 0.35929 | Val Loss: 2.91685 | Train Acc: 0.93434| Val Acc: 0.80180
+Trigger Times:, 1
+Epoch 090: | Train Loss: 0.32994 | Val Loss: 3.70481 | Train Acc: 0.93838| Val Acc: 0.75676
+trigger times: 0
+Epoch 091: | Train Loss: 0.28035 | Val Loss: 3.59361 | Train Acc: 0.94444| Val Acc: 0.75676
+Trigger Times:, 1
+Epoch 092: | Train Loss: 0.38572 | Val Loss: 5.57491 | Train Acc: 0.93434| Val Acc: 0.72072
+trigger times: 0
+Epoch 093: | Train Loss: 0.38635 | Val Loss: 3.75548 | Train Acc: 0.93333| Val Acc: 0.77477
+trigger times: 0
+Epoch 094: | Train Loss: 0.39449 | Val Loss: 3.25430 | Train Acc: 0.93030| Val Acc: 0.79279
+Trigger Times:, 1
+Epoch 095: | Train Loss: 0.37207 | Val Loss: 4.14171 | Train Acc: 0.92424| Val Acc: 0.75676
+Trigger Times:, 2
+Epoch 096: | Train Loss: 0.45680 | Val Loss: 4.28435 | Train Acc: 0.93030| Val Acc: 0.72973
+Trigger Times:, 3
+Epoch 097: | Train Loss: 0.52460 | Val Loss: 4.42195 | Train Acc: 0.91515| Val Acc: 0.75676
+trigger times: 0
+Epoch 098: | Train Loss: 0.39601 | Val Loss: 3.34516 | Train Acc: 0.92525| Val Acc: 0.80180
+Trigger Times:, 1
+Epoch 099: | Train Loss: 0.34752 | Val Loss: 3.89557 | Train Acc: 0.93939| Val Acc: 0.76577
+trigger times: 0
+Epoch 100: | Train Loss: 0.39677 | Val Loss: 3.01940 | Train Acc: 0.93636| Val Acc: 0.82883
+              precision    recall  f1-score   support
+
+          AU       0.78      0.80      0.79       332
+          UK       0.44      0.44      0.44        89
+          US       0.82      0.79      0.80       240
+
+    accuracy                           0.75       661
+   macro avg       0.68      0.68      0.68       661
+weighted avg       0.75      0.75      0.75       661
