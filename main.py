@@ -82,7 +82,7 @@ def main():
     train_loader = DataLoader(dataset=train_data, batch_size=args.bs, shuffle=True)
     val_loader = DataLoader(dataset=val_data, batch_size=args.bs, shuffle=False)
     test_loader = DataLoader(dataset=test_data, batch_size=args.bs, shuffle=False)
-    # print(test_data[0][0].shape)
+    print(f"Test dataset shape: {test_data[0][0].shape}")
 
     num_frame, num_mfcc_feature = test_data[0][0].shape[0], test_data[0][0].shape[1]
     num_class = 3
@@ -180,7 +180,7 @@ def show_dataset_examples():
 
                     img2 = librosa.display.specshow(scaled_mfccs.T, sr=sample_rate, x_axis='s', ax=ax[1],
                                                     n_fft=n_fft, hop_length=hop_length)
-                    ax[1].set(title='Mean normalized MFCC features')
+                    ax[1].set(title='Normalized MFCC features')
                     ax[1].label_outer()
                     fig.colorbar(img2, ax=[ax[1]])
 
@@ -238,6 +238,7 @@ def normalized_MFCC_fetures(mfccs):
     # because the channel conditions are also different for each file. 
     # Thus, each file is standardized with its own mean and standard deviation. 
     # Otherwise, one silently assumes constant channel conditions among all the files?
+    # https://www.kaggle.com/c/freesound-audio-tagging/discussion/54082
     mfccs = mfccs.T
     mean = np.mean(mfccs, axis=0)
     std = np.std(mfccs, axis=0)
@@ -253,7 +254,7 @@ if __name__ == "__main__":
     parser.add_argument("-bs", help = "Batch size", default=1)
     parser.add_argument("-lr", help = "Lerning rate", default=1e-3)
     parser.add_argument("-epoch", help = "Epoch", default=100)
-    parser.add_argument("-patience", help = "Patience", default=30)
+    parser.add_argument("-patience", help = "Patience", default=20)
     parser.add_argument("-mfcc", help = "Number of MFCC features", default=40)
     args = parser.parse_args()
 
