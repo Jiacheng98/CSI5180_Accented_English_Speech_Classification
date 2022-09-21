@@ -1,7 +1,7 @@
 Introduction
 ------------
 
-The project classified English accents using two deep learning models: MLP and Transformer Encoder [1]. The two models were tested on the UT-Podcast corpus [2], and the Transformer Encoder achieved a 74% improvement on the macro F1 score.
+The project aims to classify English accents using two deep learning models: MLP and Transformer Encoder [1]. The two models were tested on the UT-Podcast corpus [2], and the Transformer Encoder achieved a 74% improvement on the macro F1 score.
 
 The dataset can be downloaded by running the download_dataset.py file. 
 
